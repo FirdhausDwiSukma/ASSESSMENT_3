@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="judulSplash">Note App</string>
+    <string name="descSplash">Simpan catatan pentingmu disini, terjamin rahasiamu terjaga!</string>
+    <string name="dev">By\n development usdhaus</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="create_fragment">Create Fragment</string>
+    <string name="edit_fragment">Edit Fragment</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="delete_Notif">Are you sure want to deleted\n This notes?</string>
+    <string name="copyright">Aplikasi ini dibuat untuk menyimpan catatan kamu, apabila tidak membawa buku saat perjalanan. \n\nCopyright © 2021 Firdhaus Dwi Sukma.\nAll rights reserved</string>
+    <string name="tentang_aplikasi">About Us</string>
+    <string name="koneksi_error">Koneksi Error</string>
+</resources>
